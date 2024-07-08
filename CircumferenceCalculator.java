@@ -12,4 +12,4 @@ public class CircumferenceCalculator {
         System.out.printf("The circumference of the circle is: %.4f%n", circumference);
     }
 }
-//Calculatinng the circumference of a circle in 4 decimal places
+//Calculatinng the circumference of a circle in 4 decimal places 
